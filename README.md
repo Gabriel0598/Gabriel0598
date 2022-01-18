@@ -32,9 +32,10 @@
 <div>
   <a href="https://github.com/Gabriel0598">
   <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=Gabriel0598&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel0598&layout=compat&langs_count=16&theme=dark"/>
 </div>
   <br>
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
