@@ -19,7 +19,7 @@
   <h4>English Description</h4>
 </div>
 <div align="left">
-  <h4>- 👨‍🎓 Bachelor Degree in Analysis and Development Systems at Universidade Paulista - UNIP.</h4>
+  <h4>- 👨‍🎓 Associate Degree in Analysis and Development Systems at Universidade Paulista - UNIP.</h4>
   <h4>- 👨‍💼 Currently i work like Trainee in Data Analytics.</h4>
   <h4>- 📖 Currenty studying Data Science and DevOps.</h4>
   <h4>- 💻 Do you can follow my professional development through my <a href="https://www.linkedin.com/in/gabriel-augusto-ferreira-a567b5124/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
