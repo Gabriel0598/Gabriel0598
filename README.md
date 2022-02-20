@@ -5,8 +5,8 @@
 </div>
 <div align="left">
   <h4>- 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista - UNIP.</h4>
-  <h4>- 👨‍💼 Atualmente em busca da primeira oportunidade profissional com desenvolvimento de software.</h4>
-  <h4>- 📖 Atualmente estudando Back-End Web com as linguagens Java e C#.</h4>
+  <h4>- 👨‍💼 Atualmente trabalho como Trainee na área de Data Analytics.</h4>
+  <h4>- 📖 Atualmente estudando Data Science e DevOps.</h4>
   <h4>- 💻 Você pode acompanhar meu desenvolvimento profissional através do meu <a href="https://www.linkedin.com/in/gabriel-augusto-ferreira-a567b5124/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </h4>
 </div>
@@ -20,8 +20,8 @@
 </div>
 <div align="left">
   <h4>- 👨‍🎓 Bachelor Degree in Analysis and Development Systems at Universidade Paulista - UNIP.</h4>
-  <h4>- 👨‍💼 Currently search my first professional experience in Software Development.</h4>
-  <h4>- 📖 Currenty studying Web Back-End with Java and C# programming languages.</h4>
+  <h4>- 👨‍💼 Currently i work like Trainee in Data Analytics.</h4>
+  <h4>- 📖 Currenty studying Data Science and DevOps.</h4>
   <h4>- 💻 Do you can follow my professional development through my <a href="https://www.linkedin.com/in/gabriel-augusto-ferreira-a567b5124/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </h4>
 </div>
