@@ -42,6 +42,7 @@
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+  <img align="center" height="40" width="40" src="https://img.icons8.com/dusk/344/scala.png"/>
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
     <b>Most used Languages</b>
 </div>
