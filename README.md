@@ -5,8 +5,8 @@
 </div>
 <div align="left">
   <h4>- 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Paulista - UNIP.</h4>
-  <h4>- 👨‍💼 Atualmente trabalho como Trainee na área de Data Analytics.</h4>
-  <h4>- 📖 Atualmente estudando Data Engineering e DevOps.</h4>
+  <h4>- 👨‍💼 Atualmente trabalhando como Data Engineer na área de Data Analytics.</h4>
+  <h4>- 📖 Atualmente estudando Big Data e DevOps.</h4>
   <h4>- 🎓 Possuo certificações em serviços de computação em nuvem como <img src="https://www.logo.wine/a/logo/Oracle_Cloud_Platform/Oracle_Cloud_Platform-Logo.wine.svg" width="80" height="50" align="center"> e <img src="https://www.logo.wine/a/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.svg" width="80" height="50" align="center"></h4>
   <h4>- 💻 Você pode acompanhar meu desenvolvimento profissional através do meu <a href="https://www.linkedin.com/in/gabriel-augusto-ferreira-a567b5124/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a> 
   </h4>
@@ -21,8 +21,8 @@
 </div>
 <div align="left">
   <h4>- 👨‍🎓 Associate Degree in Analysis and Development Systems at Universidade Paulista - UNIP.</h4>
-  <h4>- 👨‍💼 Currently i work like Trainee in Data Analytics.</h4>
-  <h4>- 📖 Currenty studying Data Engineering and DevOps.</h4>
+  <h4>- 👨‍💼 Currently working such as Data Engineer in Data Analytics.</h4>
+  <h4>- 📖 Currenty studying Big Data and DevOps.</h4>
   <h4>- 🎓 I have certifications in cloud computing services such as <img src="https://www.logo.wine/a/logo/Oracle_Cloud_Platform/Oracle_Cloud_Platform-Logo.wine.svg" width="80" height="50" align="center"> and <img src="https://www.logo.wine/a/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.svg" width="80" height="50" align="center"></h4>
   <h4>- 💻 Do you can follow my professional development through my <a href="https://www.linkedin.com/in/gabriel-augusto-ferreira-a567b5124/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a> 
   </h4>
