@@ -20,9 +20,9 @@
   <h4>English Description</h4>
 </div>
 <div align="left">
-  <h4>- 👨‍🎓 Associate Degree in Analysis and Development Systems at Universidade Paulista - UNIP.</h4>
-  <h4>- 👨‍💼 Currently working such as Data Engineer in Data Analytics.</h4>
-  <h4>- 📖 Currenty studying Big Data and DevOps.</h4>
+  <h4>- 👨‍🎓 Bachelor Degree in Analysis and Development of Systems at Universidade Paulista (Sao Paulo - Brazil).</h4>
+  <h4>- 👨‍💼 I work as a Data Engineer in Analytics area.</h4>
+  <h4>- 📖 Studying Big Data and DevOps.</h4>
   <h4>- 🎓 I have certifications in cloud computing services such as <img src="https://www.logo.wine/a/logo/Oracle_Cloud_Platform/Oracle_Cloud_Platform-Logo.wine.svg" width="80" height="50" align="center"> and <img src="https://www.logo.wine/a/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.svg" width="80" height="50" align="center"></h4>
   <h4>- 💻 Do you can follow my professional development through my <a href="https://www.linkedin.com/in/gabriel-augusto-ferreira-a567b5124/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a> 
   </h4>
