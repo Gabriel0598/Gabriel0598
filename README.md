@@ -40,12 +40,12 @@
 <div align="center" style="display: inline_block"><br>
   <b>Most used Languages</br>
     <br>
-  <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-  <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-  <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-  <img align="center" height="50" width="50" src="https://img.icons8.com/dusk/344/scala.png"/>
-  <img align="center" height="50" width="50" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+  <img align="center" height="60" width="60" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+  <img align="center" height="60" width="60" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  <img align="center" height="60" width="60" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+  <img align="center" height="60" width="60" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+  <img align="center" height="60" width="60" src="https://img.icons8.com/dusk/344/scala.png"/>
+  <img align="center" height="60" width="60" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 </div>
   
 <div>
