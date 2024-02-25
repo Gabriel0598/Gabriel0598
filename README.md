@@ -34,6 +34,7 @@
 <div>
   <a href="https://github.com/Gabriel0598">
     <img height="180em" align="center" src="https://github.com/Gabriel0598/Gabriel0598/blob/main/profile-summary-card-output/2077/0-profile-details.svg"/>
+    <br>
     <img height="180em" align="left" src="https://github.com/Gabriel0598/Gabriel0598/blob/main/profile-summary-card-output/2077/3-stats.svg"/>
     <img height="180em" align="center" src="https://github.com/Gabriel0598/Gabriel0598/blob/main/profile-summary-card-output/2077/1-repos-per-language.svg"/>
 </div>
