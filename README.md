@@ -33,9 +33,9 @@
   
 <div>
   <a href="https://github.com/Gabriel0598">
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=Gabriel0598&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel0598&layout=compat&langs_count=16&theme=dark"/>
     <img height="180em" align="center" src="https://github.com/Gabriel0598/Gabriel0598/blob/main/profile-summary-card-output/2077/0-profile-details.svg"/>
+    <img height="180em" align="left" src="https://github.com/Gabriel0598/Gabriel0598/blob/main/profile-summary-card-output/2077/3-stats.svg"/>
+    <img height="180em" align="center" src="https://github.com/Gabriel0598/Gabriel0598/blob/main/profile-summary-card-output/2077/1-repos-per-language.svg"/>
 </div>
   <br>
 <div align="center" style="display: inline_block"><br>
