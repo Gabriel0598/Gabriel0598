@@ -38,7 +38,8 @@
 </div>
   <br>
 <div align="center" style="display: inline_block"><br>
-  <br>Most used Languages</br>
+  <b>Most used Languages</br>
+    <br></br>
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
